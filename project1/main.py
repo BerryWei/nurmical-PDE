@@ -32,7 +32,7 @@ dt = 60 # seconds
 
 if __name__ == "__main__":
     
-    ode = ODESolver(rhs, dt, t_span, y0, solver='hybird')
+    ode = ODESolver(rhs, dt, t_span, y0, solver='newton')
     ode.solve()
 
     #plot
