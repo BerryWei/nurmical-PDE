@@ -1,5 +1,4 @@
-nurmical-PDE
-nurmical PDE @NTU 2023 
+# nurmical PDE @NTU 2023 
 
 ## This repository is class projects for numerical PDE.
 
