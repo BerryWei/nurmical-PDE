@@ -1,6 +1,6 @@
 # nurmical PDE @NTU 2023 spring
 
-## This repository is class projects for numerical PDE.
+This repository is class projects for numerical PDE.
 
 ## Project 1: ozone photo-chemistry problem(stiff ODE)
 
