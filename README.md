@@ -47,7 +47,7 @@ k_{2} = 10^{5}s^{-1},   k_{3} = 10^{-16}  cm^{3} molecule^{-1}s^{-1}
 This project provides code for simulating a 2D Allen-Cahn model with Neumann boundary conditions. The implementation uses splitting, coupling, and Fast Fourier Transform (FFT) with periodic boundary conditions.
 The Allen-Cahn equation is a partial differential equation that describes the evolution of a phase field, and it is given by:
 
-```math=
+```math
 \frac{\partial u}{\partial t} = \varepsilon \Delta u - \frac{1}{\varepsilon} W'(u)
 ```
 
