@@ -50,9 +50,7 @@ This project provides code for simulating a 2D Allen-Cahn model with Neumann bou
 
 <div style="text-align: center">
     <img src="project2/media/IE_coupling.gif" alt="Sample GIF" width="300" height="300">
-</div>  
-
-
+</div>
 
 - Neumann boundary conditions with splitting method
 
@@ -60,13 +58,12 @@ This project provides code for simulating a 2D Allen-Cahn model with Neumann bou
     <img src="project2/media/IE_splitting.gif" alt="Sample GIF" width="300" height="300">
 </div>
 
-
-
 - FFT with periodic boundary conditions
-    
+
 <div style="text-align: center">
     <img src="project2/media/IE_fft.gif" alt="Sample GIF" width="300" height="300">
 </div>
+
 
 
 
