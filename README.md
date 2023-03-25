@@ -48,22 +48,25 @@ This project provides code for simulating a 2D Allen-Cahn model with Neumann bou
 
 - Neumann boundary conditions with coupling diffusion term and reaction term
 
-<img src="project2/media/IE_coupling.gif" alt="Sample GIF" width="300" height="200">
-
-![gif1](project2/media/IE_coupling.gif)
-
+<div style="text-align: center">
+    <img src="project2/media/IE_coupling.gif" alt="Sample GIF" width="300" height="300">
+</div>  
 
 
 
 - Neumann boundary conditions with splitting method
 
-![gif2](project2/media/IE_splitting.gif)
+<div style="text-align: center">
+    <img src="project2/media/IE_splitting.gif" alt="Sample GIF" width="300" height="300">
+</div>
 
 
 
 - FFT with periodic boundary conditions
-
-![gif3](project2/media/IE_fft.gif)
+    
+<div style="text-align: center">
+    <img src="project2/media/IE_fft.gif" alt="Sample GIF" width="300" height="300">
+</div>
 
 
 
