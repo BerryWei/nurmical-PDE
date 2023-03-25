@@ -51,6 +51,10 @@ The Allen-Cahn equation is a partial differential equation that describes the ev
 \frac{\partial u}{\partial t} = \varepsilon \Delta u - \frac{1}{\varepsilon} W'(u)
 ```
 
+```math
+W(u) = \frac{1}{4}(u^2 - 1)^2
+```
+
 where `u(x, t)` is a pseudo time-dependent spatial variable, and `ε` is a small positive parameter. `Δ` denotes the Laplacian operator, and `W'(u)` is the derivative of a double-well potential function.
 
 
