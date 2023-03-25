@@ -1,0 +1,17 @@
+# Heat Equation
+
+# Geometry
+Geometry:
+  Lx: 10
+  Ly: 10
+
+Mesh:
+  Nx: 512
+  Ny: 512
+
+Time:
+  Tstop: 10
+  dt: 0.05
+
+
+epsilon : 0.01
