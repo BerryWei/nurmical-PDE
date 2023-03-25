@@ -48,10 +48,7 @@ This project provides code for simulating a 2D Allen-Cahn model with Neumann bou
 
 - Neumann boundary conditions with coupling diffusion term and reaction term
 
-<video width="320" height="240" controls>
-  <source src="https://berrywei.github.io/REPOSITORY/path/to/your/video.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video>
+![Sample GIF](project2/media/IE_coupling.gif)
 
 
 
