@@ -17,17 +17,17 @@ where `u(x, t)` is a pseudo time-dependent spatial variable, and `ε` is a small
 - Neumann boundary conditions with coupling diffusion term and reaction term
 
 <div style="text-align: center">
-    <img src="project2/media/IE_coupling.gif" alt="Sample GIF" width="300" height="300">
+    <img src="./media/IE_coupling.gif" alt="Sample GIF" width="300" height="300">
 </div>
 
 - Neumann boundary conditions with splitting method
 
 <div style="text-align: center">
-    <img src="project2/media/IE_splitting.gif" alt="Sample GIF" width="300" height="300">
+    <img src="./media/IE_splitting.gif" alt="Sample GIF" width="300" height="300">
 </div>
 
 - FFT with periodic boundary conditions
 
 <div style="text-align: center">
-    <img src="project2/media/IE_fft.gif" alt="Sample GIF" width="300" height="300">
+    <img src="./media/IE_fft.gif" alt="Sample GIF" width="300" height="300">
 </div>
